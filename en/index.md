@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Zalith Launcher"
-  text: "Run Minecraft Java Edition on Android devices"
-  tagline: Better interface, more practical functions, lower usage threshold
+  text: "Run Minecraft Java Edition on Android"
+  tagline: Better interface, performance, and more.
   image:
     src: /zl_token.png
     alt: Logo
@@ -19,16 +19,16 @@ hero:
 features:
   - icon: 🎮
     title: Better User Experience
-    details: Redesigned application interface with more practical features, lowering the usage barrier so more people can easily enjoy Minecraft
+    details: Redesigned application interface with more practical features, lowering the usage barrier so more people can easily enjoy Minecraft.
   - icon: 🔄
     title: Better Version Management
-    details: Improved version management with support for version isolation and the ability to set external storage directories
+    details: Improved version management with support for version isolation and the ability to set external storage directories.
   - icon: 🛠️
     title: More Renderer Support
-    details: Added support for more renderers and renderer plugins
+    details: Added support for more renderers and renderer plugins.
   - icon: 📁
     title: Content Manager
-    details: Manage game resources for different game versions
+    details: Manage game resources for different game versions.
 ---
 
 ### Legal Disclaimer
