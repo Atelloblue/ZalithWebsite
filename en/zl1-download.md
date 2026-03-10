@@ -60,6 +60,6 @@ You can download the latest version of Zalith Launcher from our GitHub Releases 
 
 ---
 
-💡 **Come try the new Zalith Launcher 2?**
+💡 **Want to try the new Zalith Launcher 2?**
 
 [ZalithLauncher 2](./zl2-download)
